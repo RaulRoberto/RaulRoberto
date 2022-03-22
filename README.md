@@ -31,6 +31,4 @@
 
 ##
      
-<div>
-     
-</div>
+![Snake animation](https://github.com/rafaballerini/RaulRoberto/blob/output/github-contribution-grid-snake.svg)
