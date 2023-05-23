@@ -21,6 +21,13 @@
      <img align="center" alt="Raul-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
      <img align="center" alt="Raul-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
      <img align="center" alt="Raul-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+     <img align="center" alt="Raul-Cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cucumber/cucumber-plain.svg" />
+     <img align="center" alt="Raul-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
+     <img align="center" alt="Raul-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" />
+     
+    
+     
+     
           
      
 </div>
