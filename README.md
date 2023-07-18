@@ -1,9 +1,8 @@
 ### Hello World!! Eu sou @RaulRoberto
 
-- 🚀 Currently work as Q.A Analyst @Ricochet360
+- 🚀 Currently work as Q.A Analyst @Nscreen
 - 👨🏾‍🎓 Graduated: ***Análise e Desenvolvimento de Sistemas (@UNIMAR)*** <br>
      _Analysis and systems development_
-- 🙂 Pronouns: ele/dele
 -  You can reach me on <a href="https://linkedin.com/in/raul-pdias/">LinkedIn</a>
 
 <div>
@@ -32,6 +31,3 @@
      
 </div>
 
-##
-     
-![Snake animation](https://github.com/RaulRoberto/RaulRoberto/blob/output/github-contribution-grid-snake.svg)
